@@ -1,5 +1,5 @@
 # learnings:
-# - 
+# - tuple unpacking and map is more pythonic than split
 
 # %%
 import sys
